@@ -1,4 +1,4 @@
-
+.page-wrap {margin:0 auto; max-width:1024px;}
 /**
  * `main` element
  */
@@ -411,7 +411,6 @@ table td {
 /**
  * INSTAGRAM EMBED STYLES
  */
-.page-wrap {margin:0 auto; max-width:1024px;}
 .flockler-slideshow {display:block!important;}
 .flockler-embed-content .flockler-slideshow-item {justify-content:flex-start;}
 .flockler-embed-content .flockler-slideshow[data-container-width=">=700"] .flockler-slideshow-item {max-width:100%;}
